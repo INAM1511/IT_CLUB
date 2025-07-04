@@ -1,0 +1,130 @@
+/*.section-title{
+	background-image: linear-gradient(" to right left red, green, yellow ") !important;*/
+
+.fixed-top{
+background: rgba(40, 58, 90, 1);
+}
+div h2{
+	transition: all ease 0.9s;
+  background-image: url('data:image/jpeg;base64,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');
+	background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent !important;
+}
+div h2:hover {
+	text-shadow: 2px 2px 4px blueviolet;
+}
+div h2::selection{
+	color: yellow;
+}
+label{
+	transition: all ease 0.6s;
+}
+label:hover{
+	text-shadow: 1px 1px 2px black;
+}
+a:link{
+	color: white;
+}
+a:active{
+	color: hotpink !important;
+}
+
+
+.contact .php-register {
+  width: 100%;
+  border-top: 3px solid #47b2e4;
+  border-bottom: 3px solid #47b2e4;
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+}
+
+.contact .php-register .form-group {
+  padding-bottom: 8px;
+}
+
+
+.contact .php-register .validate {
+  display: none;
+  color: red;
+  margin: 0 0 15px 0;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+
+
+.contact .php-register .loading {
+  display: none;
+  background: #fff;
+  text-align: center;
+  padding: 15px;
+}
+
+.contact .php-register .loading:before {
+  content: "";
+  display: inline-block;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  margin: 0 10px -6px 0;
+  border: 3px solid #18d26e;
+  border-top-color: #eee;
+  animation: animate-loading 1s linear infinite;
+}
+
+.contact .php-register .form-group {
+  margin-bottom: 20px;
+}
+
+.contact .php-register label {
+  padding-bottom: 8px;
+}
+
+.contact .php-register input,
+.contact .php-register textarea {
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.contact .php-register input:focus,
+.contact .php-register textarea:focus {
+  border-color: #47b2e4;
+}
+
+.contact .php-register input {
+  height: 44px;
+}
+
+.contact .php-register textarea {
+  padding: 10px 12px;
+}
+
+.contact .php-register button[type=submit] {
+  background: #47b2e4;
+  border: 0;
+  padding: 12px 34px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.contact .php-register button[type=submit]:hover {
+  background: #209dd8;
+}
+
+.contact .php-register button[type=submit] {
+  background: #47b2e4;
+  border: 0;
+  padding: 12px 34px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.contact .php-register button[type=submit]:hover {
+  background: #209dd8;
+}
